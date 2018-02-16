@@ -338,4 +338,5 @@ def test(order = 1):
         return sentence
 
 if __name__ == '__main__':
+    print test(0)
     print test(1)
